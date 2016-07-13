@@ -1,0 +1,26 @@
+﻿FF Brave Exvius:
+
+
+1. Login
+   1. Login button should work - the user can tap the login button to proceed with login
+   2. The option to login via the play store should open a dialog to choose an account - the user sees a dialog with possible play store logins after choosing Google play login
+   3. The Facebook login option should automatically use any account already registered to the phone. - the user is automatically logged into Facebook if they choose Facebook and have an account on their phone
+   4. It should properly display an error if an invalid password is entered - the user sees an informative error if they use an invalid password
+   5. The user should be redirected to the home screen on successful login - the user sees the home screen after successful login
+   6. Any saved progress/data should be loaded on successful login - the user loads all their progress saved to their account after login
+
+
+1. Buy lapis
+   1. There are multiple options for amounts to buy - the user can see multiple options for buying lapis 
+   2. Only current bundles for amounts are displayed - the user can only see the currently offered bundles
+   3. The lapis amount and cost are consistent with the values for both in the back end - the user can see the same lapis amounts and prices as on the backend
+   4. The user is redirected to the payment screen after tapping a bundle to buy (already a user story…)
+   5. The payment screen has the right values corresponding to where the user clicked - the user sees the same bundle as the one they tapped on the payment screen 
+   6. After successful payment the user recieves the promised lapis amount - the user correctly receives the lapis they payed for
+1. Use character ability
+   1. A characters abilities are correctly shown - the user can see all the abilties a character has 
+   2. Any extra equipped abilities are shown (with no duplicates) - the user can also see any equipped abilities but not any ability twice
+   3. Their corresponding mana costs are shown and correct -the user sees the correct mana costs for each ability
+   4. The names and other information are correctly formatted and fit within the card - the user can clearly read the ability card and does not see any formatting issues?
+   5. Tapping one causes the character to use the ability - the user is able to select an ability to use it
+   6. The correct mana amount is taken from the character after ability use - the user’s character is charged the correct mana cost for the ability
